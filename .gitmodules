@@ -1,3 +1,6 @@
 [submodule "docker/php"]
 	path = docker/php
 	url = https://github.com/tutumcloud/tutum-docker-php
+[submodule "docker/mysql"]
+	path = docker/mysql
+	url = git@github.com:tutumcloud/tutum-docker-mysql.git
